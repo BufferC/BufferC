@@ -1,5 +1,5 @@
 
-![图片](https://gitee.com/BufferC/typora-picture-bed/raw/master/202203020850678.png)
+![图片](http://bufferc.store/images/202203020850678.png)
 
 <div align="center">
   
